@@ -8,7 +8,7 @@ list_of_files=[
     "src/__init__.py",
     "src/helpher.py",
     ".env",
-    "requirements.py",
+    "requirements.txt",
     "setup.py",
     "app.py",
     "research/trails.ipynb",
